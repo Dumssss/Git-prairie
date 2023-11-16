@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />   
 
     <!--==================== CSS ====================-->
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 
     <title>Cl&eacute;ment</title>
 </head>
@@ -104,7 +104,7 @@
                                         129.362C2.45775 97.8511 -7.48481 59.1033 6.67581 34.5279C20.9871 10.1032 59.7028 
                                         -0.149132 97.9666 0.00163737C136.23 0.303176 174.193 10.857 190.312 36.4879Z" />
 
-                                    <image class="home__blob-img" href="assets/img/Z91_3464.jpg" />
+                                    <image class="home__blob-img" href="assets/img/moi.jpg" />
                                 </g>
                             </svg>
                         </div>
@@ -582,7 +582,7 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
     <!--==================== MAIN JS ====================-->
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/script.js"></script>
 </body>
 
 </html>
