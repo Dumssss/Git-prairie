@@ -22,12 +22,12 @@
     <!--==================== HEADER ====================-->
     <header class="header" id="header">
         <nav class="nav container">
-            <a href="#" class="nav__logo">Cl&eacute;ment</a>
+            <a href="index.php" class="nav__logo">Accueil</a>
             <div class="nav__menu" id="nav-menu">
                 <ul class="nav__list grid">
                     <li class="nav__item">
                         <a href="#home" class="nav__link active-link">
-                            <i class="uil uil-estate nav__icon"></i> Accueil
+                            <i class="uil uil-estate nav__icon"></i> Cl&eacute;ment
                         </a>
                     </li>
                     <li class="nav__item">
