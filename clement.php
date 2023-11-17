@@ -10,7 +10,7 @@
     <link rel="icon" type="image/jpg" href="assets/img/Z91_3464.jpg" />
 
     <!--==================== SWIPER ====================-->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
     <!--==================== CSS ====================-->
     <link rel="stylesheet" href="assets/css/style.css">
@@ -46,13 +46,8 @@
                         </a>
                     </li>
                     <li class="nav__item">
-                        <a href="#portfolio" class="nav__link">
-                            <i class="uil uil-scenery nav__icon"></i> Portfolio
-                        </a>
-                    </li>
-                    <li class="nav__item">
-                        <a href="#contact" class="nav__link">
-                            <i class="uil uil-message nav__icon"></i> Contact
+                        <a href="#opensource" class="nav__link">
+                            <i class="uil uil-scenery nav__icon"></i> OpenSource
                         </a>
                     </li>
                 </ul>
@@ -147,12 +142,12 @@
                         informatique.</p>
                     <div class="about__info">
                         <div>
-                            <span class="about__info-title">2</span>
+                            <span class="about__info-title">3</span>
                             <span class="about__info-name">ans <br> d&apos;exp&eacute;riences</span>
                         </div>
 
                         <div>
-                            <span class="about__info-title">5&plus;</span>
+                            <span class="about__info-title">10&plus;</span>
                             <span class="about__info-name">projets <br> personnels r&eacute;alis&eacute;s </span>
                         </div>
 
@@ -496,42 +491,23 @@
                 </div>
             </div>
         </section>
-       
-        <!--==================== CONTACT ME ====================-->
-        <section class="contact section" id="contact">
-            <h2 class="section__title">Mes Informations</h2>
-            <span class="section__subtitle">Entrer en contact</span>
 
-            <div class="contact__container container grid">
-                <div>
-                    <div class="contact__information">
-                        <i class="uil uil-phone contact__icon"></i>
-
-                        <div>
-                            <h3 class="contact__title">Appelez-Moi</h3>
-                            <span class="contact__subtitle">+33 7 82 91 05 99</span>
-                        </div>
-                    </div>
-
-                    <div class="contact__information">
-                        <i class="uil uil-at contact__icon"></i>
-
-                        <div>
-                            <h3 class="contact__title">Email</h3>
-                            <span class="contact__subtitle"><a href="mailto:clement.dumas@efrei.net">clement.dumas@efrei.net</a></span>
-                        </div>
-                    </div>
-
-                    <div class="contact__information">
-                        <i class="uil uil-location-point contact__icon"></i>
-
-                        <div>
-                            <h3 class="contact__title">Localisation</h3>
-                            <span class="contact__subtitle">Bordeaux - France</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <!--==================== Liked Open Source project ====================-->
+        <section class="contact section" id="contact opensource">
+            <h2 class="section__title" id="opensource">Le projet que j'ai choisi</h2>
+            <span class="section__subtitle"><a href="https://github.com/HoussemDellai/Ferrari">https://github.com/HoussemDellai/Ferrari</a></span>
+                <p style="margin-right: 10%; margin-left: 10%">En tant que fervent passionné d'automobiles,
+                    et plus particulièrement de la prestigieuse marque Ferrari,
+                    le projet Ferrari a instantanément capté mon attention.
+                    Cette application mobile dédiée aux actualités de Ferrari offre bien plus qu'une simple source d'informations.
+                    En intégrant un mode hors ligne, elle promet une expérience utilisateur ininterrompue,
+                    quelque chose d'essentiel pour quelqu'un constamment avide d'actualités sur ces bolides emblématiques.
+                    De plus, la mention du partage de code suggère une approche de développement efficace et bien organisée,
+                    tandis que l'utilisation du modèle de conception MVVM confirme l'engagement envers des pratiques de développement
+                    modernes et modulaires. Choisir un projet open source qui reflète ma passion pour Ferrari tout en offrant des aspects
+                    techniques stimulants était une évidence, et le projet Ferrari remplit parfaitement ces critères,
+                    faisant de lui le choix idéal pour mon engagement dans le monde du développement open source.</p>
+   
         </section>
     </main>
 
