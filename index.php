@@ -161,13 +161,13 @@
                 </div>
                 <ul class="footer__links">
                     <li>
-                        <a href="clement.php" class="footer__link">Cl&eacute;ment</a>
+                        <a href="https://www.linkedin.com/in/clementdumas/" class="footer__link">Cl&eacute;ment</a>
                     </li>
                     <li>
-                        <a href="fils.php" class="footer__link">Fils</a>
+                        <a href="https://www.linkedin.com/in/fils-tite-edgard-boungoueres-063031202/" class="footer__link">Fils</a>
                     </li>
                     <li>
-                        <a href="dorian.php" class="footer__link">Dorian</a>
+                        <a href="https://www.linkedin.com/in/dorian-claverie/" class="footer__link">Dorian</a>
                     </li>
                 </ul>
 
