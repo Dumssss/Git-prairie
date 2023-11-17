@@ -121,37 +121,29 @@
             <div class="contact__container container grid">
                 <div>
                     <div class="contact__information">
-                        <i class="uil uil-github-alt contact__icon"></i>
+                        <i class="uil uil-linkedin contact__icon"></i>
 
                         <div>
                             <h3 class="contact__title">Dorian</h3>
-                            <span class="contact__subtitle"><a
-                                    href="mailto:clement.dumas@efrei.net">dorian.claverie@efrei.net</a></span>
-                            <br>
-                            <span class="contact__subtitle"> <a href="https://github.com/Cub1tuS"
-                                    target="_blank">Cub1tuS</a></span>
+                            <span class="contact__subtitle"> <a href="https://www.linkedin.com/in/dorian-claverie/" target="_blank">Profil LinkedIn</a></span>
                         </div>
                     </div>
 
                     <div class="contact__information">
-                        <i class="uil uil-github-alt contact__icon"></i>
+                        <i class="uil uil-linkedin contact__icon"></i>
 
                         <div>
                             <h3 class="contact__title">Cl&eacute;ment</h3>
-                            <span class="contact__subtitle"><a
-                                    href="mailto:clement.dumas@efrei.net">clement.dumas@efrei.net</a></span>
-                            <br>
-                            <span class="contact__subtitle"> <a href="https://github.com/Dumssss"
-                                    target="_blank">Dumssss</a></span>
+                            <span class="contact__subtitle"> <a href="https://www.linkedin.com/in/clementdumas/" target="_blank">Profil LinkedIn</a></span>
                         </div>
                     </div>
 
                     <div class="contact__information">
-                        <i class="uil uil-github-alt contact__icon"></i>
+                        <i class="uil uil-linkedin contact__icon"></i>
 
                         <div>
                             <h3 class="contact__title">Fils</h3>
-                            <span class="contact__subtitle">fils.boungoueres@efrei.net</span>
+                            <span class="contact__subtitle"><a href="https://www.linkedin.com/in/fils-tite-edgard-boungoueres-063031202/">Profil LinkedIn</a></span>
                         </div>
                     </div>
                 </div>
