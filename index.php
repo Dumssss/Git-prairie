@@ -27,7 +27,7 @@
                 <ul class="nav__list grid">
                     <li class="nav__item">
                         <a href="#home" class="nav__link active-link" style="color:#6176e2">
-                            <i class="uil uil-estate nav__icon"></i> Accueil
+                            <i class="uil uil-estate nav__icon"></i> <img src="assets/" alt="">
                         </a>
                     </li>
                     <li class="nav__item">
