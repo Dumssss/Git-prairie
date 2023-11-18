@@ -77,7 +77,7 @@
                                 <i class="uil uil-linkedin-alt"></i>
                             </a>
 
-                            <a href="https://discordapp.com/users/681675629061865486" target="_blank" class="home__social-icon">
+                            <a href="https://discordapp.com/users/416686402391244801" target="_blank" class="home__social-icon">
                                 <i class="uil uil-discord"></i>
                             </a>
 
@@ -99,14 +99,14 @@
                                         129.362C2.45775 97.8511 -7.48481 59.1033 6.67581 34.5279C20.9871 10.1032 59.7028 
                                         -0.149132 97.9666 0.00163737C136.23 0.303176 174.193 10.857 190.312 36.4879Z" />
 
-                                    <image class="home__blob-img" href="assets/img/moi.jpg" />
+                                    <image class="home__blob-img" href="assets/img/dorian.JPG" />
                                 </g>
                             </svg>
                         </div>
                         <div class="home__data">
                             <h1 class="home__title">Bonjour, je suis Dorian</h1>
                             <h3 class="home__subtitle">Etudiant en Cybers&eacute;curit&eacute;</h3>
-                            <p class="home__description">Comp&eacute;tences réseaux informatique et en sécurité,
+                            <p class="home__description">Comp&eacute;tences en réseaux informatique et en sécurité,
                                 cr&eacute;atif et passionn&eacute;.</p>
                             <a href="#contact" class="button button--flex">
                                 Contactez-moi <i class="uil uil-message button__icon"></i>
