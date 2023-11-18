@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,7 @@
     <!--==================== CSS ====================-->
     <link rel="stylesheet" href="assets/css/style.css">
 
-    <title>Cl&eacute;ment</title>
+    <title>Dorian</title>
 </head>
 
 <body>
@@ -27,7 +27,7 @@
                 <ul class="nav__list grid">
                     <li class="nav__item">
                         <a href="#home" class="nav__link active-link">
-                            <i class="uil uil-estate nav__icon"></i> Cl&eacute;ment
+                            <i class="uil uil-estate nav__icon"></i> Dorian
                         </a>
                     </li>
                     <li class="nav__item">
@@ -73,7 +73,7 @@
                 <div class="home__container container grid">
                     <div class="home__content grid">
                         <div class="home__social">
-                            <a href="https://www.linkedin.com/in/clementdumas/" target="_blank" class="home__social-icon">
+                            <a href="https://www.linkedin.com/in/dorianclaverie/" target="_blank" class="home__social-icon">
                                 <i class="uil uil-linkedin-alt"></i>
                             </a>
 
@@ -81,7 +81,7 @@
                                 <i class="uil uil-discord"></i>
                             </a>
 
-                            <a href="https://github.com/Dumssss" target="_blank" class="home__social-icon">
+                            <a href="https://github.com/Cub1tuS" target="_blank" class="home__social-icon">
                                 <i class="uil uil-github-alt"></i>
                             </a>
                         </div>
@@ -104,9 +104,9 @@
                             </svg>
                         </div>
                         <div class="home__data">
-                            <h1 class="home__title">Bonjour, je suis Cl&eacute;ment</h1>
+                            <h1 class="home__title">Bonjour, je suis Dorian</h1>
                             <h3 class="home__subtitle">Etudiant en Cybers&eacute;curit&eacute;</h3>
-                            <p class="home__description">Comp&eacute;tences en developpement web et en programmation,
+                            <p class="home__description">Comp&eacute;tences réseaux informatique et en sécurité,
                                 cr&eacute;atif et passionn&eacute;.</p>
                             <a href="#contact" class="button button--flex">
                                 Contactez-moi <i class="uil uil-message button__icon"></i>
