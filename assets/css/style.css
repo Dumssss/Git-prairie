@@ -428,8 +428,6 @@ img {
     justify-content: center;
 }
 
-<<<<<<< HEAD
-=======
 /*==================== SKILLS ====================*/
 .skills__container {
     row-gap: 0;
@@ -542,7 +540,6 @@ img {
     transform: rotate(-180deg);
 }
 
->>>>>>> main
 /*==================== QUALIFICATION ====================*/
 .qualification__tabs {
     display: flex;
@@ -678,11 +675,7 @@ img {
     outline: none;
 }
 
-<<<<<<< HEAD
-/*==================== CONTACT ME ET OPENSOURCE GIT ====================*/
-=======
 /*==================== CONTACT ME ====================*/
->>>>>>> main
 .contact__container {
     row-gap: 3rem;
 }
@@ -713,14 +706,6 @@ img {
     text-decoration: none;
 }
 
-<<<<<<< HEAD
-.section__subtitle a:link,
-.section__subtitle a:visited {
-    text-decoration: none;
-}
-
-=======
->>>>>>> main
 /*==================== FOOTER ====================*/
 .footer {
     padding-top: 2rem;
