@@ -921,9 +921,9 @@ img {
         margin: 0;
     }
 
-    .home__container {
+    /* .home__container {
         row-gap: 5rem;
-    }
+    } */
 
     .home__content {
         padding-top: 5.5rem;
