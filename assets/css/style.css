@@ -675,7 +675,7 @@ img {
     outline: none;
 }
 
-/*==================== CONTACT ME ET OPENSOURCE GIT ====================*/
+/*==================== CONTACT ME ====================*/
 .contact__container {
     row-gap: 3rem;
 }
@@ -703,11 +703,6 @@ img {
 
 .contact__subtitle a {
     color: var(--text-color-light);
-    text-decoration: none;
-}
-
-.section__subtitle a:link,
-.section__subtitle a:visited {
     text-decoration: none;
 }
 
@@ -926,9 +921,9 @@ img {
         margin: 0;
     }
 
-    .home__container {
+    /* .home__container {
         row-gap: 5rem;
-    }
+    } */
 
     .home__content {
         padding-top: 5.5rem;
